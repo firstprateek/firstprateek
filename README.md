@@ -1,4 +1,4 @@
-# Hi
+# Hi!
 
 I build tools for working with AI coding agents. I'm a platform engineer by background: I build the tools and services that other teams build on.
 
