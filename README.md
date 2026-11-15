@@ -1,7 +1,5 @@
 # Hi!
 
-I build tools for working with AI coding agents. I'm a platform engineer by background: I build the tools and services that other teams build on.
-
 ### What I'm using and refining
 
 - **[i.inc](https://github.com/firstprateek/i-inc)**: a personal company of AI engineers. Agent employees with their own machines and memories take tickets and hand back checked, reviewed, proven PRs.
