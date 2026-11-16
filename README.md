@@ -1,4 +1,4 @@
-# Hi!
+# Hi, I'm Prateek
 
 I build tools for working with AI coding agents. I'm a platform engineer by background: I build the tools and services that other teams build on.
 
@@ -16,6 +16,6 @@ I build tools for working with AI coding agents. I'm a platform engineer by back
 
 ### Feedback and contact
 
-Tried one of the projects or games? I'd love to hear what worked, what didn't, and what you'd change. **[Send me a note](https://firstprateek.github.io/personal-website-astro/contact/)**: the same form works for anything else, too.
+Tried one of the projects or games? I'd love to hear what worked, what didn't, and what you'd change. **[Send me a note](https://pjoshi.dev/contact/)**: the same form works for anything else, too.
 
-More projects and writing: **[firstprateek.github.io/personal-website-astro](https://firstprateek.github.io/personal-website-astro/)**
+More projects and writing: **[pjoshi.dev](https://pjoshi.dev/)**
